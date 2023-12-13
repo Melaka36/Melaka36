@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I am a final year undergraduate from the
+University of Colombo School of Computing,
+reading for B.Sc. (Hons) Computer Science degree with skills in software engineering. I am an energetic, enthusiastic person with good teamwork skills and an eagerness to learn new technologies, always seeking challenging tasks to grow and improve my IT skills.
 <!--
 **Melaka36/Melaka36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
