@@ -31,8 +31,8 @@ A final year undergraduate reading for B.Sc. (Hons) Computer Science degree with
      <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
      <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-     <br>
      <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
+     <br>
      <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
      <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
      <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
@@ -41,12 +41,9 @@ A final year undergraduate reading for B.Sc. (Hons) Computer Science degree with
      <br>
      <img height="15em" src="https://pbs.twimg.com/profile_images/1641476962362302464/K8lb6OtN_400x400.jpg">AWS</>
      <img src="https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=jupyter"/>
-     <br>
-    <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
-     <br>
+     <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
      <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-     <br>
      <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
      <br>
      <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
@@ -60,10 +57,16 @@ A final year undergraduate reading for B.Sc. (Hons) Computer Science degree with
       </p>
       <br>
       <a href="mailto:pasindupathiranagama@gmail.com" >
-      <img align="center" alt="Melaka Pathiranagama | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+      <img align="center" alt="Melaka Pathiranagama | Gmail" width="30em" src="https://img.icons8.com/color/48/gmail-new.png" />
       </a> &nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/melaka-path/" >
-      <img align="center" alt="Melaka Pathiranagama | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
+      <img align="center" alt="Melaka Pathiranagama | LinkedIn" width="30em" src="https://img.icons8.com/fluency/48/linkedin.png" />
+      </a> &nbsp;&nbsp;
+      <a href="https://medium.com/@pasindupathiranagama" >
+      <img align="center" alt="Melaka Pathiranagama | Medium" width="30em" src="https://img.icons8.com/ios/50/000000/medium-logo.png" alt="medium-logo" />
+      </a> &nbsp;&nbsp;
+       <a href="https://www.instagram.com/melaka_36/" >
+      <img align="center" alt="Melaka Pathiranagama | Instergram" width="30em" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Inster-logo" />
       </a> &nbsp;&nbsp;
       <br>
     </div>
