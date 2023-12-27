@@ -2,6 +2,7 @@
 
 ## I'm Melaka Pathiranagama
 A final year undergraduate reading for B.Sc. (Hons) Computer Science degree with skills in software engineering. I am an energetic, enthusiastic person with good teamwork skills and an eagerness to learn new technologies, always seeking challenging tasks to grow and improve my IT skills.
+<br>
 ![](https://komarev.com/ghpvc/?username=melaka36n&color=0069b4)
 <table>
   <tr>
