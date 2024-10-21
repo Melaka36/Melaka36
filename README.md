@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm Melaka Pathiranagama
-A final year undergraduate reading for B.Sc. (Hons) Computer Science degree with skills in software engineering. I am an energetic, enthusiastic person with good teamwork skills and an eagerness to learn new technologies, always seeking challenging tasks to grow and improve my IT skills.
+A passionate software engineer who is currently working at one of the top tech companies in Sri Lanka. I am a graduate of the University of Colombo School of Computing, with a B.Sc. (Hons) in Computer Science degree with skills in software engineering. I am an energetic, enthusiastic person with good teamwork skills and an eagerness to learn new technologies, always seeking challenging tasks to grow and improve my IT skills while delivering my best for the company I work for.
 <br>
 ![](https://komarev.com/ghpvc/?username=melaka36n&color=0069b4)
 <table>
